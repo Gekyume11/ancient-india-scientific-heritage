@@ -1,0 +1,14 @@
+# Local browser sessions and working files
+/.agent-browser-profile/
+/work/
+__pycache__/
+*.py[cod]
+.DS_Store
+.env
+.env.*
+
+# Supplied inputs and local download archives
+/main.pptx
+/inspiration/
+/inspiration.zip
+/ancient-india-html.zip
